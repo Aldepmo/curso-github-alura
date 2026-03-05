@@ -6,3 +6,5 @@ Aquí aprenderé a:
 - Crear y gestionar repositorios
 - Hacer commits y manejar ramas
 - Colaborar en proyectos usando GitHUb
+
+Este es mi primer archivo creado y añadido de manera manual desde la web de GitHub
