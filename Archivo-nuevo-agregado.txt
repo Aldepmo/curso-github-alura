@@ -1,0 +1,3 @@
+Este archivo lo cree y agregue manualmente usando solamente la web de GitHUb.
+Son parte de mis primeras prácticas de GitHUb
+Este ejercicio corresponde al día 2 del reto de 7 días
