@@ -7,4 +7,5 @@ Aquí aprenderé a:
 - Hacer commits y manejar ramas
 - Colaborar en proyectos usando GitHUb
 
+En el día 2:
 Este es mi primer archivo creado y añadido de manera manual desde la web de GitHub
